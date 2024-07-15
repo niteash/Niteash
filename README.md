@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-‹img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left">
 <a href="[https://linkedin.com/in/shwewinaung](https://www.linkedin.com/in/shwe-win-aung-nikki-577759237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwewinaung" height="30" width="40" /></a>
