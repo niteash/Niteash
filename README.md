@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
-‹img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+‹img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left">
-<a href="https://linkedin.com/in/shwewinaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwewinaung" height="30" width="40" /></a>
-<a href="https://fb.com/shwewinaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shwewinaung" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shwewinaung](https://www.linkedin.com/in/shwe-win-aung-nikki-577759237/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shwewinaung" height="30" width="40" /></a>
+<a href="https://fb.com/this.nikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shwewinaung" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteash&show_icons=true&locale=en&layout=compact" alt="shwewinaung" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=this.nikki&show_icons=true&locale=en" alt="shwewinaung" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteash&show_icons=true&locale=en" alt="shwewinaung" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteash&" alt="shwewinaung" /></p>
